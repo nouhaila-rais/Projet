@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProjetVaccin.iml" filepath="$PROJECT_DIR$/.idea/modules/ProjetVaccin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProjetVaccin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ProjetVaccin-build.iml" />
+    </modules>
+  </component>
+</project>
